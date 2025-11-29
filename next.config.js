@@ -129,12 +129,10 @@ const nextConfig = {
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
-      'ko-fi.com'
-      
-    // 🔥 Notion 新 S3 域名（必须添加）
-    'prod-files-secure.s3.us-west-2.amazonaws.com',
-    's3.us-west-2.amazonaws.com',
-    'prod-files-secure.s3.amazonaws.com'
+      'ko-fi.com',
+      'prod-files-secure.s3.us-west-2.amazonaws.com',
+      's3.us-west-2.amazonaws.com',
+      'prod-files-secure.s3.amazonaws.com'
     ],
     // 图片加载器优化
     loader: 'default',
